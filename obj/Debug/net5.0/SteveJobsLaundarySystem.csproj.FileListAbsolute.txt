@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\bin\Debug\net5.0\SteveJobsLaundarySystem.exe
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\bin\Debug\net5.0\SteveJobsLaundarySystem.deps.json
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\bin\Debug\net5.0\SteveJobsLaundarySystem.runtimeconfig.json
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\bin\Debug\net5.0\SteveJobsLaundarySystem.runtimeconfig.dev.json
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\bin\Debug\net5.0\SteveJobsLaundarySystem.dll
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\bin\Debug\net5.0\ref\SteveJobsLaundarySystem.dll
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\bin\Debug\net5.0\SteveJobsLaundarySystem.pdb
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.dll
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\ref\SteveJobsLaundarySystem.dll
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.pdb
+C:\Users\user\Desktop\csharp_project\steveJobsLaundarySystem\src\SteveJobsLaundarySystem\obj\Debug\net5.0\SteveJobsLaundarySystem.genruntimeconfig.cache
